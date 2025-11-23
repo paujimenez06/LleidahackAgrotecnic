@@ -1,0 +1,5 @@
+truck_id,capacity_kg,cost_per_km,maintenance_cost_daily,type
+T-01,10000,1.15,50,Small
+T-02,10000,1.15,50,Small
+T-03,15000,1.25,80,Large
+T-04,15000,1.25,80,Large

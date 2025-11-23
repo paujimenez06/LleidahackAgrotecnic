@@ -1,0 +1,5 @@
+slaughterhouse_id,lat,lon,daily_limit
+M-Nord,41.85,0.5,2500
+M-Sud,41.35,0.6,2500
+M-Est,41.6,0.95,3000
+M-Oest,41.6,0.35,2000
